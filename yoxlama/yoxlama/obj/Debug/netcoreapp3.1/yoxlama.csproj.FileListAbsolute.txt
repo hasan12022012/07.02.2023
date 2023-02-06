@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.exe
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.deps.json
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.runtimeconfig.json
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.dll
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\bin\Debug\netcoreapp3.1\yoxlama.pdb
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.dll
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.pdb
+C:\Users\ASUS\source\repos\yoxlama\yoxlama\obj\Debug\netcoreapp3.1\yoxlama.genruntimeconfig.cache
